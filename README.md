@@ -5,6 +5,18 @@
 
 ### MERN stack developer
 
+My core strengths include:
+
+⚡ Building scalable REST APIs
+
+⚛️ Developing modern, fast React interfaces
+
+🗄️ Working with databases (MongoDB)
+
+🔧 Solving problems with clean and maintainable code
+
+🚀 Deploying full applications using cloud/hosting platforms
+
 My Actitities:
 💻 Building responsive web interfaces using HTML5, CSS3, JavaScript
 ⚛️ Developing front-end apps with React.js and Vite
