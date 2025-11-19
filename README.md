@@ -1,5 +1,6 @@
+![Uploading 2.png…]()
 
-[![HI welcome to my github repos](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![HI welcome to my github repos](https://readme-typing-svg.demolab.com/?lines=HI welcome to my github repos)](https://git.io/typing-svg)
 
 # Hi 👋, I'm Zannatul Mawa
 
