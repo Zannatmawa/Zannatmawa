@@ -1,6 +1,5 @@
-![Uploading 2.png…]()
+<img width="3780" height="1890" alt="2" src="https://github.com/user-attachments/assets/bf2fe32f-baa7-44c9-be17-de882e132436" />
 
-[![HI welcome to my github repos](https://readme-typing-svg.demolab.com/?lines=HI welcome to my github repos)](https://git.io/typing-svg)
 
 # Hi 👋, I'm Zannatul Mawa
 
