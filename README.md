@@ -4,17 +4,14 @@
 # Hi 👋, I'm Zannatul Mawa
 
 ### MERN stack developer
-
+About Me:
+Hi, I’m a passionate MERN Stack Developer with a strong focus on building modern, responsive, and user-friendly web applications. I enjoy working with JavaScript and its powerful ecosystem, especially React for the frontend and Node.js/Express for the backend.
 My core strengths include:
 
 ⚡ Building scalable REST APIs
-
 ⚛️ Developing modern, fast React interfaces
-
 🗄️ Working with databases (MongoDB)
-
 🔧 Solving problems with clean and maintainable code
-
 🚀 Deploying full applications using cloud/hosting platforms
 
 My Actitities:
