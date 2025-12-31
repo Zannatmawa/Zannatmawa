@@ -10,6 +10,9 @@ I’m a passionate **MERN Stack Developer** with hands-on experience building **
 I care deeply about **clean code, problem-solving, and collaboration**, and I’m continuously learning to improve my development skills through real-world projects and team work.
 
 ---
+## 📊 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZannatulMawa&theme=react)
 
 ## 💡 Core Strengths
 
