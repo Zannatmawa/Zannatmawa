@@ -1,4 +1,4 @@
-<img width="3780" height="1890" alt="2" src="https://github.com/user-attachments/assets/bf2fe32f-baa7-44c9-be17-de882e132436" />
+<img width="3780" height="1890" alt="bg" src="https://github.com/user-attachments/assets/d3db7aad-a742-4f12-88cc-9bbc1532c80d" />
 
 
 # Hi 👋, I'm Zannatul Mawa
